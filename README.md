@@ -56,7 +56,7 @@ Welcome to my GitHub profile! 🚀 I’m a front stuck developer specializing in
 
 ## 🤝 Let's Connect!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/elijah-ametefe-4707362a7/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elijah-ametefe-4707362a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](ekametefe001@st.ug.edu.gh)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://yourportfolio.com) 
