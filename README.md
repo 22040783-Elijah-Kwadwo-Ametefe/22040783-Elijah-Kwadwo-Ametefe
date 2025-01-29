@@ -28,10 +28,10 @@ I'm in love with creating educational as
 
 ### 🌐 Connect with Me  
 <div>
-  <a href="mailto:onlykelvin06@gmail.com">
+  <a href="mailto:elijahametefe669@gmail.com">
     <img src="https://img.shields.io/badge/Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.instagram.com/_.yo.kelvin/">
+  <a href="https://www.instagram.com/sarkcesslil?igsh=YTZnbG54ZHlzOG50&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.youtube.com/@TechTutor_Tv?sub_confirmation=1">
