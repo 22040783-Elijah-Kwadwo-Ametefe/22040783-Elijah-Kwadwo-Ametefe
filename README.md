@@ -10,7 +10,7 @@
   <div>
     <img src="https://komarev.com/ghpvc/?username=EliCodes&style=for-the-badge&color=brightgreen" alt="Profile Views" />
     <img src="https://img.shields.io/github/stars/EliCodes?style=for-the-badge&color=blue" alt="GitHub Stars" />
-    <img src="https://img.shields.io/github/followers/KelvCodes?style=for-the-badge&color=orange" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/Elicodes?style=for-the-badge&color=orange" alt="GitHub Followers" />
   </div>
 </div>
 
