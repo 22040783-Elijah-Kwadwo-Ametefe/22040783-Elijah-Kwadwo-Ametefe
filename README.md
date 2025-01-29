@@ -1,4 +1,4 @@
-# Hi, I'm Kelvin Yeboah (KelvCodes) 👋  
+# Hi, I'm Elijah Ametefe (EliCodes) 👋  
 
 <div align="center">
   <img src="https://octodex.github.com/images/filmtocat.png" alt="Avatar" width="250"/>
