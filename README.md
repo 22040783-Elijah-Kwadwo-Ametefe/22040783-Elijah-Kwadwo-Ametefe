@@ -75,7 +75,7 @@ I'm in love with creating educational as
 ### 🚀 Featured Projects  
 Here are a few of my most notable projects that you can check out!
 
-1. **[BrainFrys](https://github.com/KelvCodes/BrainFrys)** 🌐  
+1. **[BrainFrys](https://github.com/Elicodes/BrainFrys)** 🌐  
    - A platform offering tutorials and exercises on coding and other relevant subjects aiming to provide free resources for learning programming.
 
 2. **[Portfolio](https://github.com/KelvCodes/Portfolio)** 🖥️  
