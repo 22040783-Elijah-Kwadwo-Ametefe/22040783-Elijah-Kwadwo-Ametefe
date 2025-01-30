@@ -40,7 +40,7 @@ I'm in love with creating educational as
   <a href = "https://www.linkedin.com/in/elijah-ametefe-4707362a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/KelvCodes">
+  <a href="https://github.com/22040783-Elijah-Kwadwo-Ametefe/22040783-Elijah-Kwadwo-Ametefe/edit/main/README.md">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>  
